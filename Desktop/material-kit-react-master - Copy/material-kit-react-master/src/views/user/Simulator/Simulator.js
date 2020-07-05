@@ -1,5 +1,5 @@
 import React from 'react';
-import './Simulator.css';
+// import './Simulator.css';
 import SimulatorResult from './SimResult';
 
 class Simulator extends React.Component {

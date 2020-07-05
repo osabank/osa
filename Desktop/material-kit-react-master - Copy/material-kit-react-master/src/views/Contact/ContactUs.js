@@ -1,5 +1,5 @@
 import React from 'react';
-import './contact.css';
+// import './contact.css';
 import axios from 'axios';
 import Response from './Response';
 import ReactDOM from 'react-dom';

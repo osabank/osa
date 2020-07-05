@@ -1,5 +1,5 @@
 import React from 'react';
-import './contact.css';
+// import './contact.css';
 
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";

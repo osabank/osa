@@ -1,5 +1,5 @@
 import React from 'react';
-import './Apply.css';
+// import './Apply.css';
 
 class ApplyForLoan extends React.Component {
   render() {
